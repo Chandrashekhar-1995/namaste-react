@@ -3,8 +3,16 @@ how to make a project using html, javascript and react
 how to connect react in html
 
 
-Homework day 1 -
+///////////////////////////////////////////////////////////////////////
+day 1 Assugnment
+//////////////////////////////////////////////////////////////////////
+
+
+********************
 Theory -
+********************
+
+
 1.-  What is Emmet ?
    ANS:-  Emmet is a powerful and highly efficient web development tool that simplifies and accelerates the process of writing HTML and CSS code. It is often referred to as an "abbreviation engine" because it allows you to use shorthand notation to generate full HTML and CSS code. Emmet is particularly popular among web developers for its ability to boost productivity by reducing the need for manual typing and speeding up the creation of web markup.
 
@@ -205,8 +213,9 @@ Reduced code duplication: Arrow functions can help you to reduce code duplicatio
 Enhanced performance: Arrow functions can help to improve the performance of your React code by reducing the amount of overhead that is required to execute functions.
 
 
-
+**********************
 COADING -
+**********************
 
 1.- Setup all tool on your Pc 
    a.- VS Code
@@ -228,3 +237,57 @@ COADING -
 
 
 
+///////////////////////////////////////////////////////////////////////
+day 2 Assugnment
+//////////////////////////////////////////////////////////////////////
+
+
+
+********************
+Theory -
+********************
+
+1.-  What is NPM?
+   ANS:-  
+
+
+2.- What is Parcel/Webpack? Why do we need it?
+3.- What is Parcel-cache?
+4.- What is npx?
+5.- What is difference between dependencies vs devDependencies?
+6.- What is Tree Shaking?
+7.- What is Hot Module Replacement? 
+8.- listdown your faverite five superpowers of parceland describe any three of them in your words?
+9.- What is .gitignore? What should we add and not add into it?
+10.- What is deferance between package.json and package-lock.json?
+11.- Why should i not modify package-lock.json?
+12.- What is Node-Modules? is it a good idea to push that on git?
+13.- What is dist folder?
+14.- What is browserlists Read and dif bundlers: vite, webpack, parcel
+15.- Read About: ^ - caret and ~ - tilda.
+16.- Read about Script types in Html (MDN Docs).
+
+
+**********************
+COADING -
+**********************
+
+1.- intialize npm into your repo.
+2.- install react and react-dom
+3.- remove CDN links into react.
+4.- install parcel
+5.- ignite your app with parcel.
+6.- add script for "start" and "build" with parcel commands.
+7.- add .gitignore file
+8.- add browserlists.
+9.- build a production version of your code using parcel build.
+
+
+**********************
+Reference -
+**********************
+
+1.- Creating your own create-react-app
+2.- parcel documentation Parcel onProduction
+3.- Browserlist: https://browserlist.dev/
+4.- 
