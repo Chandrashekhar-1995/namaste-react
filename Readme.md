@@ -237,35 +237,69 @@ COADING -
 
 
 
-///////////////////////////////////////////////////////////////////////
-day 2 Assugnment
-//////////////////////////////////////////////////////////////////////
 
 
-
-********************
-Theory -
-********************
-
-1.-  What is NPM?
-   ANS:-  
-
-
-2.- What is Parcel/Webpack? Why do we need it?
-3.- What is Parcel-cache?
-4.- What is npx?
-5.- What is difference between dependencies vs devDependencies?
-6.- What is Tree Shaking?
-7.- What is Hot Module Replacement? 
-8.- listdown your faverite five superpowers of parceland describe any three of them in your words?
-9.- What is .gitignore? What should we add and not add into it?
-10.- What is deferance between package.json and package-lock.json?
-11.- Why should i not modify package-lock.json?
-12.- What is Node-Modules? is it a good idea to push that on git?
-13.- What is dist folder?
-14.- What is browserlists Read and dif bundlers: vite, webpack, parcel
-15.- Read About: ^ - caret and ~ - tilda.
-16.- Read about Script types in Html (MDN Docs).
+************************************************************************************************************
+************************************************************************************************************
+************************************************************************************************************
+* day 2 Class Note
+************************************************************************************************************
+************************************************************************************************************-
+* Parcel dooding from pareljs.org-
+* Dev Build
+* Local server
+* HMR (Hote Module Replacement)
+* File Watching algrothime
+* caching
+* Image Optimization
+* Minification
+* Bundling
+* Compress
+* Consistant Hashing
+* Coe Splitting
+* Diffrential Bundling ( Support Older Browsers)
+* Dignostic
+* Error Handling
+* HTTPs Tree Shaking ( reomve unused code for you)
+* Diferent dev and Production Bundles
+* 
+* 
+*
+* 
+* 
+*
+* 
+*  
+* ///////////////////////////////////////////////////////////////////////
+* day 2 Assignment
+* //////////////////////////////////////////////////////////////////////
+* 
+* 
+* 
+* ********************
+* Theory -
+* ********************
+* 
+* 1.-  What is NPM?
+*    ANS:-  
+* 
+* 
+* 2.- What is Parcel/Webpack? Why do we need it?
+* 3.- What is Parcel-cache?
+* 4.- What is npx?
+* 5.- What is difference between dependencies vs devDependencies?
+* 6.- What is Tree Shaking?
+* 7.- What is Hot Module Replacement? 
+* 8.- listdown your faverite five superpowers of parceland describe any three of them in your words?
+* 9.- What is .gitignore? What should we add and not add into it?
+* 10.- What is deferance between package.json and package-lock.json?
+* 11.- Why should i not modify package-lock.json?
+* 12.- What is Node-Modules? is it a good idea to push that on git?
+* 13.- What is dist folder?
+* 14.- What is browserlists Read and dif bundlers: vite, webpack, parcel
+* 15.- Read About: ^ - caret and ~ - tilda.
+* 16.- Read about Script types in Html (MDN Docs).
+* 17._ Difference beetween git and github?
 
 
 **********************
@@ -291,3 +325,8 @@ Reference -
 2.- parcel documentation Parcel onProduction
 3.- Browserlist: https://browserlist.dev/
 4.- 
+
+
+************************************************************************************************************
+************************************************************************************************************
+************************************************************************************************************
