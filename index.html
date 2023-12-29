@@ -1,94 +1,17 @@
-<!-- How to make first project using html - -->
-
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <div id="root">
-        <h1>Hello World</h1>
-    </div>
-</body>
-</html> -->
-
-
-
-
-
-<!-- How to make same project using javascript - -->
-
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <div id="root"> </div>
-
-    <script>
-        const heading = document.createElement("h1");
-        heading.innerHTML = "Hello world by Java script" ;
-
-        const root = document.getElementById("root");
-        root.appendChild(heading);
-    </script>
-</body>
-</html> -->
-
-
-
-
-<!-- How to make same project using React - -->
-
-<!-- 1. google--- React cdn link   and copy link and paste in lowar part of project body tang and after this write yous javascript  code  -->
-
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-
-    <div id="root"> </div>
-    
-
-    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
-    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
-
-<script>
-    const heading = React.createElement("h1", {}, "Hello world from React");
-             // {in this bracket write attribute like id: root, xyz:abc }
-    const root = ReactDOM.createRoot(document.getElementById("root"));
-    root.render(heading);
-</script>
-
-</body>
-</html> -->
-
-
-
-
-<!-- make js code in saperate file  - -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
     <title>Namaste React</title>
 </head>
 <body>
+    <div id="root">
+        <h1>Not Renderd</h1>
+    </div>
 
-    <div id="root"> I am Ironman</div>
-   
 
-<script type="module" src="./App.js"></script>
+    <script type="module" src="/App.js"></script>
 </body>
 </html>
