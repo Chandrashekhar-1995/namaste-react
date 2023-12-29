@@ -887,80 +887,65 @@ References -
 ************************************************************************************************************
 * day 4 Class Note
 ************************************************************************************************************
-************************************************************************************************************-
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-*
-* 
-* 
-*
-* 
-*  
-* ///////////////////////////////////////////////////////////////////////
-* day Assignment
-* //////////////////////////////////////////////////////////////////////
-* 
+************************************************************************************************************
 * 
 * 
 * ********************
 * Theory -
 * ********************
+* 1- Is JSX Is Mandatrory for React?
+* 2- Is ES6 Mandatory for Reacr?
+* 3- {TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent></TitleComponent>} in JSX
+* 4- How Can i write Components in jsx
+* 5- What is <React.Fragment></Reract.Fragment> and <></> ?
+* 6- What is Virtual DOM?
+* 7- What is Reconciliation in React ?
+* 8- What Is React Fiber ?
+* 9- Why we need keys in React? When do we need key in React ?
+* 10- Can we use index as Keys in react
+* 11- What is props in React ? Ways to
+* 12- WayWhat is Config Driven Ui ?
 * 
-* 1.-  
-*    ANS:-  
-* 
-* 
-* 2.- 
-* 3.- 
-* 4.- 
-* 5.- 
-* 6.- 
-* 7.- 
-* 8.- 
-* 9.- 
-* 10.- 
-* 11.- 
-* 12.- 
-* 13.- 
-* 14.- 
-* 15.- 
-* 16.- 
-* 17.- 
-
-
-**********************
+*  **********************
 COADING -
 **********************
-
-1.- 
-2.- 
-3.- 
-4.- 
-5.- 
-6.- 
-7.- 
-8.- 
-9.- 
+* BUILD A FOOD ORDERING APP:-
+* 1.-  Think a cool name of your app 
+*    ANS:-  done ist==== BiteRover
+* 
+* 
+* 2.- Build app Layout
+*    ANS:- 
+* 3.- Build a Header Componend with a Logo and Nav Items & Cart.
+*    ANS:- 
+* 4.- Build a Body Component.
+*    ANS:- 
+* 5.- Build RestaurantList Component.
+*    ANS:- 
+* 6.- Buid RestaurantCard Component.
+*    ANS:- 
+* 7.- use Static Data initially.
+*    ANS:- 
+* 8.- Make your card dynamic.(pass in props)
+*    ANS:- 
+* 9.- Props - passing Arguments to a function- Use Destruchering & Spread operator
+*    ANS:- 
+* 10.- Render your card with dynamic data of Restraunrs
+*    ANS:- 
+* 11.- Use array.map to render all the restaurants
+*    ANS:- 
 
 **********************
 Reference -
 **********************
 
-1.- 
-2.- 
-3.- 
-4.- 
-
-
+1.- Code link:- https://bitbucket.org/namastedev/namaste-react-live/src/master/
+2.- React without JSX:- https://legacy.reactjs.org/docs/react-without-jsx.html
+3.- Virtual DOM :- https://legacy.reactjs.org/docs/faq-internals.html
+4.- Reconciliation :- https://legacy.reactjs.org/docs/reconciliation.html
+5.- React Fiber Architecture :- https://github.com/acdlite/react-fiber-architecture
+6- React Without ES6 :- https://legacy.reactjs.org/docs/react-without-es6.html
+7- Index Keys As Anty-Pattern :- https://robinpokorny.com/blog/index-as-a-key-is-an-anti-pattern/
 ************************************************************************************************************
 ************************************************************************************************************
 ************************************************************************************************************
@@ -977,93 +962,46 @@ Reference -
 ************************************************************************************************************
 ************************************************************************************************************
 ************************************************************************************************************
-* day Class Note
+* day 5 Class Note
 ************************************************************************************************************
 ************************************************************************************************************-
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-*
-* 
-* 
-*
-* 
-*  
+
 * ///////////////////////////////////////////////////////////////////////
 * day Assignment
 * //////////////////////////////////////////////////////////////////////
-* 
-* 
-* 
-* ********************
-* Theory -
-* ********************
-* 
-* 1.-  
+* 1.-  What is the difference between Named Export, Default export and * as export?
 *    ANS:-  
 * 
 * 
-* 2.- 
-* 3.- 
-* 4.- 
-* 5.- 
-* 6.- 
-* 7.- 
-* 8.- 
-* 9.- 
-* 10.- 
-* 11.- 
-* 12.- 
-* 13.- 
-* 14.- 
-* 15.- 
-* 16.- 
-* 17.- 
-
-
+* 2.- What is the importance of config.js
+*    ANS:- 
+* 3.- What are React Hooks?
+*    ANS:- 
+* 4.- Why do we need a useState Hook?
+*    ANS:- 
+* 
 **********************
 COADING -
 **********************
 
-1.- 
-2.- 
-3.- 
-4.- 
-5.- 
-6.- 
-7.- 
-8.- 
-9.- 
-
-**********************
-Reference -
-**********************
-
-1.- 
-2.- 
-3.- 
-4.- 
-
-
-************************************************************************************************************
-************************************************************************************************************
-************************************************************************************************************
-
-
-
-
-
-
-
-
+* 1.-  Cleane up your code
+*    ANS:-  
+* 
+* 
+* 2.- Create a folder structure for your code
+*    ANS:- 
+* 3.- Make different fole for each component?
+*    ANS:- 
+* 4.- Create a Config file
+*    ANS:- 
+* 5.- Use all Types of import and export
+*    ANS:- 
+* 6.- Create a SearchBox in your app
+*    ANS:- 
+* 7.- Use useState to create a variable and bind it to the input box
+*    ANS:- 
+* 8.- Try to make tour searchbar work
+*    ANS:- 
 
 
 ************************************************************************************************************
