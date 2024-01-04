@@ -56,3 +56,9 @@
     color: rgb(140, 143, 147);
     text-align: center;
 }
+
+
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}

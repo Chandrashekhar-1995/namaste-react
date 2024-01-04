@@ -1,0 +1,2 @@
+export const CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
+export const LOGO_URL = "https://img.freepik.com/free-vector/delivery-service-illustrated_23-2148505081.jpg?w=740&t=st=1703767829~exp=1703768429~hmac=afcccdaff0ef78d1e73fb4d91b394e7803a12a49a59a2db79a3cf3accc59348b";
