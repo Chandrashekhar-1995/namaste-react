@@ -34,8 +34,8 @@
 
 .restaurantcard{
     background-color: #f0f0f0;
-    width: 172px;
-    margin: 2px;
+    width: 190px;
+    margin: 5px;
 }
 
 .restaurantcard:hover{
@@ -44,7 +44,7 @@
 }
 
 .res-logo{
-    width: 170px;
+    width: 188px;
     margin: 1px;
 }
 .res-body{
@@ -61,4 +61,15 @@
 .filter-btn{
     margin: 10px;
     cursor: pointer;
+}
+.Shimmer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    background-color: #f0f0f0;
+    width: 190px;
+    height: 500px;
+    margin: 5px;
 }
